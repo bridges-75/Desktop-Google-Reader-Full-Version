@@ -233,4 +233,4 @@ This repository serves as the official landing page for Desktop Google Reader. T
 **Get the most recent version of Desktop Google Reader today!**
 
 ---
-**Last updated:** 2026-09-11 23:45:12 UTC
+**Last updated:** 2026-09-12 02:29:20 UTC
